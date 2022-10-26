@@ -1,0 +1,6 @@
+cadastro de usuários, senha mínimo 6 caractéres
+usuário faça login usando seu nome de usuário e senha
+obrigatório ter informações de residência e numeração
+obrigatório a verificação de que é uma pessoa real
+inserir modelo, tamanho, cor
+verificar disponibilidade de estoque
